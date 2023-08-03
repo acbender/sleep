@@ -1,1 +1,2 @@
-# sleep
+spindle detector
+slow wave detector
