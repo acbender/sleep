@@ -1,2 +1,1 @@
-spindle detector
-slow wave detector
+spindle detector and slow wave detector
