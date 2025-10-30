@@ -3,7 +3,6 @@ function [SPIstart, SPIend, SPImax, SPIpeakfreq, SPImeanfreq, SPIduration, artif
 % automatic spindle detector v1
 % (excludes artifacts)
 
-% based on Andrillon et al 2011
 % created April 2022
 
 % requires all of the following inputs:
@@ -116,3 +115,4 @@ SPIduration(SPIduration==0)=NaN; %duration of spindle in seconds, else NaN
 end
 
 %END
+
